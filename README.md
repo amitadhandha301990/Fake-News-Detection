@@ -1,6 +1,8 @@
 # Fake-News-Detection
 Fake-News-Detection with Machine Learning
+
 This repository contains a Jupyter Notebook for detecting fake news using machine learning techniques.
+
 📄 Overview
 In this project, we aim to build a classifier that can accurately detect fake news based on the content. The dataset includes various news articles labeled as real or fake, and the model is trained using Natural Language Processing (NLP) and machine learning algorithms.
 
