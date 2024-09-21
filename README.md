@@ -23,14 +23,8 @@ Confusion matrix to visualize performance
 🛠 How to Run
 Clone the repository:
 
-
-git clone https://github.com/your_username/fake_news_detection.git
-Install the required dependencies:
-
-
 pip install -r requirements.txt
 Open the Jupyter Notebook:
-
 
 jupyter notebook fake_news_detection.ipynb
 Run each cell to reproduce the results.
