@@ -43,10 +43,11 @@ matplotlib
 These can be installed using the following command:
 
 pip install numpy pandas scikit-learn nltk matplotlib
+
 🔮 Future Improvements
 Experiment with deep learning models like LSTM or BERT for improved accuracy.
 Add more datasets to test the robustness of the model.
-Deploy the model as a web application using Flask or FastAPI.
+
 📜 License
 This project is licensed under the MIT License - see the LICENSE file for details.
 
