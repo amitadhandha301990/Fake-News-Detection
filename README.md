@@ -4,20 +4,26 @@ Fake-News-Detection with Machine Learning
 This repository contains a Jupyter Notebook for detecting fake news using machine learning techniques.
 
 📄 Overview
+
 In this project, we aim to build a classifier that can accurately detect fake news based on the content. The dataset includes various news articles labeled as real or fake, and the model is trained using Natural Language Processing (NLP) and machine learning algorithms.
 
 📂 Contents
+
 fake_news_detection.ipynb: The Jupyter Notebook where the project is implemented. It contains all steps from data loading, preprocessing, model training, and evaluation.
 🚀 Steps Covered in the Notebook
 Data Preprocessing:
 
 Loading the dataset
+
 Cleaning and preparing the text data for analysis
 Vectorizing the text using methods like TF-IDF or CountVectorizer
+
 Model Building:
+
 
 Training machine learning models (e.g., Logistic Regression, Naive Bayes) to classify news as real or fake
 Hyperparameter tuning to optimize the models
+
 Evaluation:
 
 Evaluating the models using accuracy, precision, recall, and F1-score
